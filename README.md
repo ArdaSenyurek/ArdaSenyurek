@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ArdaSenyurek
-- 👀 I’m interested in coding and designing things 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C++
+- 📫 How to reach me -->  senyurekardais@gmail.com
 
 <!---
 ArdaSenyurek/ArdaSenyurek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
